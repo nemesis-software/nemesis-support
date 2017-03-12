@@ -7,7 +7,7 @@ This repository is intended for public issues found by clents and partners.
 Each issue should be submited with detailed information in order to be fixed. This information includes:
 
 1. Steps to reproduce from start.nemesis.io generated project, including the version you are using.
-2. Unit test showing the reproducement of the issue.  
+2. Unit test showing the the issue, and showing the expected behaviour.
 
 In case the two required steps of information are not provided it is possible your issue to never be fixed. For faster fixes please provide Unit test or Integration test showing the issue.
 
